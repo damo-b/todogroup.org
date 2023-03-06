@@ -4,7 +4,7 @@ title: Open Source Program Office Case Study Guidelines
 
 The TODO OSPO Case Study initiative features real-world use cases and the impact OSPO Programs and open source are having on an organization.
 OSPO Use Cases build narratives around open source organization’s journey that includes Open Source Program Office highlighted activities, organizational structure,
-best practices, goals, and success stories, showcasing rganizations as leaders in the OSPO and open source management ecosystem.
+best practices, goals, and success stories, showcasing organizations as leaders in the OSPO and open source management ecosystem.
 
 ## Requirements
 
